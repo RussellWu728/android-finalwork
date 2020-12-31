@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Finals_new</string>
+    <string name="title_map">地图</string>
+    <string name="title_weather">天气</string>
+    <string name="title_history">历史</string>
+    <string name="title_setting">设置</string>
+    <array name="home_video_tab">
+        <item>今日@dream@0</item>
+        <item>推荐@dream@1</item>
+    </array>
+</resources>
